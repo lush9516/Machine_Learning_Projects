@@ -1,4 +1,4 @@
-# Daily Practice for Coding
+# Predicting for Contersion Rate
 
 This project is to predict whether a user will convert to active user based on their information using Random Forest achieving an auc score of 0.98.
 
